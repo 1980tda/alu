@@ -1,0 +1,52 @@
+header{
+    background: url(../img/);
+}
+
+.bg-portafolio{
+    background: #8ba58d;
+}
+
+.bg-portafolio ul li a{
+    color: #e5da12;
+    font-size: 30px;
+}
+
+.bg-portafolio ul li a:hover{
+    color:black;
+}
+
+#hero{
+    padding-top: 120px;
+    padding-bottom: 80px;
+}
+
+#hero h1{
+    color: #2396bd;
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+#hero p{
+    color: #666666;
+    font-size: 22px;
+}
+
+header{
+    width: 100%;
+    position: relative;
+}
+
+#inicio{
+    width: 100%;
+    position: relative;
+    background: rgb(0, 208, 255);
+    padding: 140px 0;
+}
+
+.container{
+    background-color: #e3f897;
+}
+
+.footer{
+    background-color: #2396bd;
+}
