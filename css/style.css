@@ -1,52 +1,37 @@
+
 header{
-    background: url(../img/);
+    background: url("../img/fondo1,jpg");
+    background-size: cover;
 }
 
 .bg-portafolio{
-    background: #8ba58d;
+    background-color: #92b1b1;
 }
 
 .bg-portafolio ul li a{
-    color: #e5da12;
-    font-size: 30px;
+    color: white
 }
 
-.bg-portafolio ul li a:hover{
-    color:black;
+.bg-portafolio{
+    color: aquamarine;
 }
 
 #hero{
-    padding-top: 120px;
-    padding-bottom: 80px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
-#hero h1{
-    color: #2396bd;
-    font-size: 80px;
+#hero{
+    color: rgb(74, 119, 104);
+    font-size: 50px;
     margin-bottom: 30px;
 }
 
 #hero p{
-    color: #666666;
-    font-size: 22px;
+    color: black;
+    font-size: 30;
 }
 
-header{
-    width: 100%;
-    position: relative;
-}
-
-#inicio{
-    width: 100%;
-    position: relative;
-    background: rgb(0, 208, 255);
-    padding: 140px 0;
-}
-
-.container{
-    background-color: #e3f897;
-}
-
-.footer{
-    background-color: #2396bd;
+body{
+    background-color: aqua;
 }
